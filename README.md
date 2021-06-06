@@ -18,3 +18,12 @@ _**NOTE**: The application was developed to automate the manual cell counting pr
    
 ### System Architecture
 ![Slide9](https://user-images.githubusercontent.com/83666636/120933429-c4829700-c717-11eb-98fc-2e9ecfc972eb.jpg)
+
+### WBC Count
+![Slide12](https://user-images.githubusercontent.com/83666636/120933612-889c0180-c718-11eb-977c-80f5587240d8.jpg)
+
+### RBC Count
+![Slide16](https://user-images.githubusercontent.com/83666636/120933621-90f43c80-c718-11eb-8f21-c21fc10fa37c.jpg)
+
+### Platelet Count
+![Slide18](https://user-images.githubusercontent.com/83666636/120933635-9c476800-c718-11eb-9591-99d489b4fec8.jpg)
