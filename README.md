@@ -4,7 +4,7 @@
 A MATALAB application that uses digital image processing technique, capable of counting the Red Blood
 Cells (RBCs), White Blood Cells (WBCs) and Platelets respectively from a colored image of a peripheral blood.
 
-_**NOTE**: The application was developed to automate the manual cell counting process which are prone to human errors not advanced machines like CBC Analyzers._
+_**NOTE**: The application was developed to automate the manual cell counting process which are prone to human errors not to replace advanced machines like the CBC Analyzer._
 
 ### Working of the app
 **The cell couting involves 3 steps:** 
